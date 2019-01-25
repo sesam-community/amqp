@@ -1,4 +1,4 @@
-# Read AMQP messages as a json source
+# Read AMQP 0.9 messages as a json source
 
 [![Build Status](https://travis-ci.org/sesam-community/amqp.svg?branch=master)](https://travis-ci.org/sesam-community/amqp)
 
