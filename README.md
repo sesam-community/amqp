@@ -19,7 +19,7 @@ Example system config:
         "password": "guest
       }
     },
-    "image": "sesamcommunity/kafka",
+    "image": "sesamcommunity/amqp",
     "port": 5000
   }
 }
